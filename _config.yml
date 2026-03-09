@@ -19,17 +19,21 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Site Author
+title: Sashuai Zhou
+description: Multimodal Large Models | Reasoning and Generation Alignment
+
+repository: master-chou/master-chou.github.io
+
 author:
-  name             : "chouss"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  name: Sashuai Zhou
+  chinese_name: 周洒帅
+  email: chouss911@gmail.com
+  github: https://github.com/master-chou
+  city: Hangzhou
+  country: China
+  university: Zhejiang University
+  department: College of Computer Science and Technology
+  scholar: https://scholar.google.com/citations?hl=zh-CN&user=Xiu9HvkAAAAJ&view_op=list_works&gmla=AF9nlQuvZNmjwaDXUd4iJc6gkwHlJLCcH-OanMgAcoCtWqwd8CGUt364R5Bh10y34sqE48tCigQO5HjLdYH0Zxfq7RRcj70oq20dF4NU-w_mAgRu4PnWx97Hqms7U-GriWjETy2xEBy7m1cHMocsHz0KPcw5xT2Fsbz1JqfpfBYTRxZZPUIitA1BbTg5xw&sciund=341118886536106250
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +41,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
