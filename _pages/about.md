@@ -40,7 +40,7 @@ My recent work explores a full pipeline including:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language](#)
@@ -56,7 +56,7 @@ Zehan Wang*, **Sashuai Zhou***, Shaoxuan He, et al.
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 (Oral)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 (Oral)</div><img src='images/ICME25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Multi-modal Models with Heterogeneous MoE Adapters for Fine-tuning](#)
@@ -72,7 +72,7 @@ Zehan Wang*, **Sashuai Zhou***, Shaoxuan He, et al.
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/emnlp25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation](#)
@@ -112,11 +112,9 @@ ACL 2026 ARR
 
 # 📖 Education
 
-- *2024 – Present*, **Zhejiang University**, M.S. in Computer Science  
-  GPA: 3.76/4.0 (Top 15%)
+- *2024 – Present*, **Zhejiang University**, Master, Computer Science  
 
-- *2020 – 2024*, **Zhejiang University**, B.S. in Computer Science (Turing Class)  
-  GPA: 3.89/4.0 (Top 10%)
+- *2020 – 2024*, **Zhejiang University**, Undergraduate, Chu Kochen Honors College(Turing Class), Computer Science
 
 ---
 
