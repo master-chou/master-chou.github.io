@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title: Sashuai Zhou
+description: Multimodal Large Models | Reasoning and Generation Alignment
+repository: master-chou/master-chou.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -19,10 +19,6 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-title: Sashuai Zhou
-description: Multimodal Large Models | Reasoning and Generation Alignment
-
-repository: master-chou/master-chou.github.io
 
 author:
   name: Sashuai Zhou
